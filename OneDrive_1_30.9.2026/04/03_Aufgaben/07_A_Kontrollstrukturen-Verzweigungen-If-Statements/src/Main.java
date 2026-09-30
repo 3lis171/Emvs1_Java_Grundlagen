@@ -3,7 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //------------------------------------------------------------------------------------------------------------------------------------------------------
+        //--------kkkkkkk----------------------------------------------------------------------------------------------------------------------------------------------
         System.out.println("Exercise 1");
         // 01.  Check in an if-statement if the bigNumber is greater than the smallNumber.
         //      If the bigNumber is greater than the smallNumber, then print it so, that the following output is given:
